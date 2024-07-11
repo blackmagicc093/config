@@ -1,0 +1,4 @@
+#!name=DoH by BlackMagicc DNS
+#!desc=DoH by BlackMagicc DNS
+[General]
+dns-server = https://robin.techomespace.com/dns-query
