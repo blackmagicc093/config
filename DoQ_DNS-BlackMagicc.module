@@ -1,4 +1,4 @@
-#!name=DNS DoQ Adguard
-#!desc=DNS DoQ Oversea
+#!name=DoQ by BlackMagicc DNS
+#!desc=DoQ by BlackMagicc DNS
 [General]
 dns-server = quic://robin.techomespace.com
