@@ -1,0 +1,4 @@
+#!name=DNS DoQ Adguard
+#!desc=DNS DoQ Oversea
+[General]
+dns-server = quic://robin.techomespace.com
