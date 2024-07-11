@@ -1,6 +1,6 @@
 #!name=Youtube ADS by BlackMagicc
 #!desc=Youtube & Youtube Music (IOS >= 15)
-#Credit: DrStrangeVN, YanbingJiang
+#Credit: DrStrangeVN
 
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com), (PROTOCOL,UDP)),REJECT
